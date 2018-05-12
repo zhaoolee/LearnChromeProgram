@@ -151,7 +151,7 @@ my_clock(clock_div);
 简单与强大并不矛盾,getHours, getMinutes, getSeconds是系统内置的函数,我们简单调用它们,它们为程序员提供强大的功能.
 
 
-> ##如何获取独立IDE?
+> ## 如何获取独立IDE?
 
 
 
